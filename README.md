@@ -25,7 +25,7 @@ informatique dans un processus décisionnel planifié en trois étapes :
 #### _ modélisation du problème;
 #### _ mise en œuvre de la solution du problème.
 
-Par la suite, il est présenté une situations pratiques où l'outil développé dans cette thèse peut être appliqué dans des cas de conception ou 
+Finalement, il est présenté une situations pratiques où l'outil développé dans cette thèse peut être appliqué dans des cas de conception ou 
 de réhabilitation de ponts.
 
 -------------------------------------------------------------------------------------------------------
