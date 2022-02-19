@@ -1,4 +1,35 @@
 # Optimisation-of-I-beam-Evolutionary-algorithm
+
+# Version en Français
+
+MOTS CLÉS: Pont métallique, Conception optimale, Algorithme évolutionnaire, Eurocode 3 partie 1-5, Prise de décision, Outil de calcul, Python
+
+Ce projet a été réalisé dans le cadre de la thèse de master en construction métallique et mixte de l'Université de Coimbra.
+Ce travail a été développé dans un contexte d'étude où le domaine d'intérêt est la construction métallique et son objectif principal est de concevoir un 
+outil pour aider l'ingénieur civil dans le processus de prise de décision dans les premières étapes de la conception des ponts métalliques à section en I.
+
+Dans la thèse, une présentation détaillée est faite sur la méthodologie et la théorie mises en œuvre dans les modules de calcul qui permettent 
+le calcul de la résistance transversale. 
+
+L'outil de calcul est capable de calculer des éléments de plaques minces en compression uniaxiale et en cisaillement selon l'Eurocode EN 1993, partie 1.5.
+
+Une fois l'outil de calcul réalisé, une méthode d'optimisation métaheuristique a été incorporée, qui permet de trouver les solutions les plus adaptées par 
+rapport aux trois fonctions objectives considérées dans ce travail, qui sont : 
+#### _ minimisation du poids;
+#### _ minimisation des coûts;
+#### _ maximisation du facteur d'utilisation.
+
+Une fois l'interopérabilité entre l'outil informatique et l'algorithme évolutionnaire réalisée, on a construit une structure pour intégrer l'outil 
+informatique dans un processus décisionnel planifié en trois étapes : 
+#### _ formulation du problème;
+#### _ modélisation du problème;
+#### _ mise en œuvre de la solution du problème.
+
+Par la suite, il est présenté une situations pratiques où l'outil développé dans cette thèse peut être appliqué dans des cas de conception ou 
+de réhabilitation de ponts.
+
+-------------------------------------------------------------------------------------------------------
+
 # Versão em Português
 
 PALAVRAS-CHAVE: Ponte em construção metálica, Dimensionamento óptimo, Algoritmo evolucionário, Eurocódigo 3 parte 1-5, Tomada de decisão, Ferramenta de cálculo, Python
@@ -27,32 +58,4 @@ computacional num processo de tomada de decisão planeado em três etapas:
 En seguida, propõe-se uma apresentação de situações práticas em que a ferramenta desenvolvida nesta dissertação pode ser aplicada em casos de conceção 
 de pontes ou na reabilitação de pontes.
 
-
 ----------------------------------------------------------------------------------------------------------
-# Version en Français
-
-MOTS CLÉS: Pont métallique, Conception optimale, Algorithme évolutionnaire, Eurocode 3 partie 1-5, Prise de décision, Outil de calcul, Python
-
-Ce projet a été réalisé dans le cadre de la thèse de master en construction métallique et mixte de l'Université de Coimbra.
-Ce travail a été développé dans un contexte d'étude où le domaine d'intérêt est la construction métallique et son objectif principal est de concevoir un 
-outil pour aider l'ingénieur civil dans le processus de prise de décision dans les premières étapes de la conception des ponts métalliques à section en I.
-
-Dans la thèse, une présentation détaillée est faite sur la méthodologie et la théorie mises en œuvre dans les modules de calcul qui permettent 
-le calcul de la résistance transversale. 
-
-L'outil de calcul est capable de calculer des éléments de plaques minces en compression uniaxiale et en cisaillement selon l'Eurocode EN 1993, partie 1.5.
-
-Une fois l'outil de calcul réalisé, une méthode d'optimisation métaheuristique a été incorporée, qui permet de trouver les solutions les plus adaptées par 
-rapport aux trois fonctions objectives considérées dans ce travail, qui sont : 
-#### _ minimisation du poids;
-#### _ minimisation des coûts;
-#### _ maximisation du facteur d'utilisation.
-
-Une fois l'interopérabilité entre l'outil informatique et l'algorithme évolutionnaire réalisée, on a construit une structure pour intégrer l'outil 
-informatique dans un processus décisionnel planifié en trois étapes : 
-#### _ formulation du problème;
-#### _ modélisation du problème;
-#### _ mise en œuvre de la solution du problème.
-
-Par la suite, il est présenté une situations pratiques où l'outil développé dans cette thèse peut être appliqué dans des cas de conception ou 
-de réhabilitation de ponts.
