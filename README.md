@@ -1,6 +1,6 @@
 # Optimisation-of-I-beam-Evolutionary-algorithm
 
-# Version en Français
+# Version en français
 
 MOTS CLÉS: Pont métallique, Conception optimale, Algorithme évolutionnaire, Eurocode 3 partie 1-5, Prise de décision, Outil de calcul, Python
 
