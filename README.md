@@ -1,4 +1,4 @@
-# Optimisation-of-I-beam-Evolutionary-algorithm
+# Optimisation of I-beam sections - Evolutionary algorithm
 
 # Version en français
 
