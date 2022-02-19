@@ -19,7 +19,7 @@ rapport aux trois fonctions objectives considérées dans ce travail, qui sont :
 #### _ minimisation des coûts;
 #### _ maximisation du facteur d'utilisation.
 
-Une fois l'interopérabilité entre l'outil informatique et l'algorithme évolutionnaire réalisée, on a construit une structure pour intégrer l'outil 
+Une fois l'interopérabilité entre l'outil de calcul et l'algorithme évolutionnaire réalisée, on a construit une structure pour intégrer l'outil 
 informatique dans un processus décisionnel planifié en trois étapes : 
 #### _ formulation du problème;
 #### _ modélisation du problème;
