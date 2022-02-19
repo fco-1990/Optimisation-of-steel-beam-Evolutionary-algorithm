@@ -14,9 +14,9 @@ A ferramenta de cálculo será capaz de calcular elementos de placa fina em comp
 
 Uma vez realizada a ferramenta de cálculo, foi incorporado um método de optimização metaheurística, que permite encontrar as soluções mais adequadas relativamente
 às três funções objectivas consideradas neste trabalho, que são: 
-## _ minimização do peso;
-## _ minimização do custo;
-## _ maximização do factor de utilização.
+### _ minimização do peso;
+### _ minimização do custo;
+### _ maximização do factor de utilização.
 
 Uma vez alcançada a interoperabilidade entre a ferramenta de cálculo e o algoritmo evolucionário, foi desenvolvido uma estrutura para integrar a ferramenta 
 computacional num processo de tomada de decisão planeado em três etapas: 
