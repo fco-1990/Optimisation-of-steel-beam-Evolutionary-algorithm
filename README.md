@@ -9,7 +9,7 @@ Ce travail a été développé dans un contexte d'étude où le domaine d'intér
 outil pour aider l'ingénieur civil dans le processus de prise de décision dans les premières étapes de la conception des ponts métalliques à section en I.
 
 Dans la thèse, une présentation détaillée est faite sur la méthodologie et la théorie mises en œuvre dans les modules de calcul qui permettent 
-de déterminer la résistance en section (poutre de classe de section 4 avec ou sans raidisseur longitudinal). 
+de déterminer la résistance en section d'une poutre composé-soudé (classe de section 4 avec ou sans raidisseur longitudinal). 
 
 L'outil de calcul est capable de calculer des éléments de plaques minces en compression uniaxiale et en cisaillement selon l'Eurocode EN 1993, partie 1.5.
 
