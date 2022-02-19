@@ -14,15 +14,15 @@ A ferramenta de cálculo será capaz de calcular elementos de placa fina em comp
 
 Uma vez realizada a ferramenta de cálculo, foi incorporado um método de optimização metaheurística, que permite encontrar as soluções mais adequadas relativamente
 às três funções objectivas consideradas neste trabalho, que são: 
-### _ minimização do peso;
-### _ minimização do custo;
-### _ maximização do factor de utilização.
+#### _ minimização do peso;
+#### _ minimização do custo;
+#### _ maximização do factor de utilização.
 
 Uma vez alcançada a interoperabilidade entre a ferramenta de cálculo e o algoritmo evolucionário, foi desenvolvido uma estrutura para integrar a ferramenta 
 computacional num processo de tomada de decisão planeado em três etapas: 
-## _ formulação do problema;
-## _ modelação do problema;
-## _ implementação da solução do problema.
+#### _ formulação do problema;
+#### _ modelação do problema;
+#### _ implementação da solução do problema.
 
 En seguida, propõe-se uma apresentação de situações práticas em que a ferramenta desenvolvida nesta dissertação pode ser aplicada em casos de conceção 
 de pontes ou na reabilitação de pontes.
@@ -44,15 +44,15 @@ L'outil de calcul est capable de calculer des éléments de plaques minces en co
 
 Une fois l'outil de calcul réalisé, une méthode d'optimisation métaheuristique a été incorporée, qui permet de trouver les solutions les plus adaptées par 
 rapport aux trois fonctions objectives considérées dans ce travail, qui sont : 
-## _ minimisation du poids;
-## _ minimisation des coûts;
-## _ maximisation du facteur d'utilisation.
+#### _ minimisation du poids;
+#### _ minimisation des coûts;
+#### _ maximisation du facteur d'utilisation.
 
 Une fois l'interopérabilité entre l'outil informatique et l'algorithme évolutionnaire réalisée, on a construit une structure pour intégrer l'outil 
 informatique dans un processus décisionnel planifié en trois étapes : 
-## _ formulation du problème;
-## _ modélisation du problème;
-## _ mise en œuvre de la solution du problème.
+#### _ formulation du problème;
+#### _ modélisation du problème;
+#### _ mise en œuvre de la solution du problème.
 
 Par la suite, il est présenté une situations pratiques où l'outil développé dans cette thèse peut être appliqué dans des cas de conception ou 
 de réhabilitation de ponts.
