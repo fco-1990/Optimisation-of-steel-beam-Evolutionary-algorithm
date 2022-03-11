@@ -2,11 +2,11 @@
 
 # Version en français
 
-MOTS CLÉS: Pont métallique, Conception optimale, Algorithme évolutionnaire, Eurocode 3 partie 1-5, Prise de décision, Outil de calcul, Python
+MOTS CLÉS: Poutre composé soudé de âme pleine, Pont métallique, Conception optimale, Algorithme évolutionnaire, Eurocode 3 partie 1-5, Prise de décision, Outil de calcul, Python
 
 Ce projet a été réalisé dans le cadre de la thèse de master en construction métallique et mixte de l'Université de Coimbra.
 Ce travail a été développé dans un contexte d'étude où le domaine d'intérêt est la construction métallique. Le sujet de thèse est de concevoir un 
-outil pour aider l'ingénieur civil dans le processus de prise de décision dans les premières étapes de la conception des ponts métalliques à section en I.
+outil pour aider l'ingénieur civil dans le processus de prise de décision dans les premières étapes de pré-dimensionnement de poutre composé soudé de âme pleine.
 
 Dans la thèse, une présentation détaillée est faite sur la méthodologie et la théorie mises en œuvre dans les modules de calcul qui permettent 
 de déterminer la résistance en section d'une poutre composé-soudé (section de classe 4 avec ou sans raidisseur longitudinal). 
